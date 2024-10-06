@@ -1,0 +1,79 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../thesis.in.latex/thesis.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../thesis.in.latex/thesis.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../thesis.in.latex/acronyms.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../thesis.in.latex/bibliography.bib",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../thesis.in.latex/glossary.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../thesis.in.latex/metadata.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 27,
+                "EditorGroup": 0,
+                "FileName": "../../thesis.in.latex/thesis.tex",
+                "FirstLine": 27,
+                "FoldedLines": "",
+                "Line": 66
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../thesis.in.latex/tukethesis.cls",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../thesis.in.latex/tukethesis.sty",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../../../usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 44
+            }
+        ],
+        "MasterFile": ""
+    }
+}
